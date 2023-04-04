@@ -9,5 +9,4 @@ test = s3_resource.Object(bucket_name='ramatestbucket04', key='sample.txt').get(
 
 print(test)
 
-
-
+# This  test
